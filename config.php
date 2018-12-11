@@ -1,7 +1,7 @@
 <?php
 $config = [
-"imei" => "627432833562729",
-"sign" => "bb1d69fafa3850dfc131c00712e2429fb1c98c5f",
-"token" => "5c51ffec434f03e499bb3924a96d0643",
-"uuid" => "fa3f9872-9024-45fd-98bb-979797bb99ef"
+"imei" => "621270297912352",
+"sign" => "28c6cca561f65b9289dbfce9863b5e520dd078b1",
+"token" => "63b02621e087e61756dfe6e68cb91f1e",
+"uuid" => "02e3b138-16e0-437c-a429-a2fba69f524d"
 ];
